@@ -19,7 +19,7 @@ public class Main {
 
         int biggestSize = 0;
 
-        // How is the biggest
+        // Who is the biggest
         for(String s : inputArray){
             if(s.length() > biggestSize) {
                 biggestSize = s.length();
